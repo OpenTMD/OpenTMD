@@ -1,4 +1,4 @@
-### Hi there 👋
+# Open Technical Model Design 👋
 
 <!--
 **OpenTMD/OpenTMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
